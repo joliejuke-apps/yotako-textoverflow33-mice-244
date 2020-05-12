@@ -1,0 +1,19 @@
+.breakpoint-0 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%
+}
+.style0 {
+  color: red;
+  font-family: 'Segoe UI',serif;
+  font-size: 2.0833333333333335vw;
+  margin-left: 6.145833333333333vw;
+  margin-top: 8.981481481481483vh;
+  width: 87.70833333333333vw;
+  height: 19.84375vw;
+  text-overflow: clip;
+  overflow: hidden
+}
+.breakpoint-0 {
+  display: block
+}
